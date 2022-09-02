@@ -1,2 +1,2 @@
-# Python-AutoTrader-Stock-
+# Python-Stock-AutoTrader
 Python AutoTrader for Stock
